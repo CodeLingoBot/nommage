@@ -4,7 +4,6 @@
 	<title>test</title>
 </head>
 <body>
-<?php echo "test"
-?>
+	Nomenclature<a href=".\page\serveur.php">Serveur</a>
 </body>
 </html>
